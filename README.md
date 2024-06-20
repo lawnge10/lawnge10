@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reshav Ravi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a Coding enthusiast. Currently I am a frontend developer and learning backend development<</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawnge10&label=Profile%20views&color=0e75b6&style=flat" alt="lawnge10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawnge10" alt="lawnge10" /></a> </p>
 
 - 🔭 I’m currently working on **Airbnb**
 
