@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reshav Ravi</h1>
-<h3 align="center">I am a Coding enthusiast. Currently I am a frontend developer and learning backend development<</h3>
+<h3 align="center">I am a Coding enthusiast. Currently I am a frontend developer and learning backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawnge10&label=Profile%20views&color=0e75b6&style=flat" alt="lawnge10" /> </p>
 
